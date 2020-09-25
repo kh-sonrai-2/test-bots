@@ -1,0 +1,7 @@
+version: 2020-09-25-0
+type: Remediation
+title: Write Bot Inputs To Ticket
+operation: EXECUTE_PYTHON_SCRIPT
+authorName: Sonrai Test
+cloud: AWS
+authorEmail: karen.hanson@sonraisecurity.com
